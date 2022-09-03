@@ -1,0 +1,1 @@
+This repo contains solutions to Project 0x00. Shell, basics.
